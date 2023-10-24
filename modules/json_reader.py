@@ -14,3 +14,14 @@ def get_df(path):
     df[i] = d
     i += 1
   return pd.DataFrame.from_dict(df, orient='index')
+
+# Load meta data 
+# https://colab.research.google.com/drive/1Zv6MARGQcrBbLHyjPVVMZVnRWsRnVMpV#scrollTo=7igYuRaV4bF7
+def metadata_loader(path):
+  data = []
+  with gzip.open(path) as f:
+      for l in f:
+          data.append(json.loads(l.strip()))
+  df = pd.DataFrame.from_dict(data)
+  return df 
+
