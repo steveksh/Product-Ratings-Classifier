@@ -11,3 +11,7 @@
 # Dataset 
 
 [Amazon Product Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html)
+
+# Project idea / flow
+
+![Project Flow](https://github.com/steveksh/recommendation/blob/main/project_flow.png?raw=true)
