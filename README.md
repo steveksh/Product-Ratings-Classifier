@@ -1,6 +1,9 @@
 
 # SDSC 8007 Final Project
 
+# Final Paper 
+
+[Paper](https://docs.google.com/document/d/1OuBj7rIibOYac7x0gEhau8qpoPeCJX-N1nqnY-lp3T4/edit?usp=sharing)
 
 # Proposal Doc 
 
