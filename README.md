@@ -17,3 +17,6 @@
 ![Project Flow](https://github.com/steveksh/recommendation/blob/main/project_flow.png?raw=true)
 
 
+# EDA ideas 
+
+![EDA](https://raw.githubusercontent.com/steveksh/dataprojects/master/eda.png)
