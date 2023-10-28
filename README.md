@@ -5,7 +5,7 @@
 
 [Paper](https://docs.google.com/document/d/1OuBj7rIibOYac7x0gEhau8qpoPeCJX-N1nqnY-lp3T4/edit?usp=sharing)
 
-# Processed Comonents 
+# Processed Components 
 
 [Embeddings](https://drive.google.com/file/d/1z-SLhjsNPuTUzHjpDEAT9XCBu_xC0AtY/view?usp=drive_link)
 
