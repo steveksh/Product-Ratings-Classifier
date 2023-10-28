@@ -5,6 +5,10 @@
 
 [Paper](https://docs.google.com/document/d/1OuBj7rIibOYac7x0gEhau8qpoPeCJX-N1nqnY-lp3T4/edit?usp=sharing)
 
+# Processed Comonents 
+
+[Embeddings](https://drive.google.com/file/d/1z-SLhjsNPuTUzHjpDEAT9XCBu_xC0AtY/view?usp=drive_link)
+
 # Proposal Doc 
 
 [Google Doc](https://docs.google.com/document/d/1qU0MBP92_FcdE49dx2deWbutJYg-_bs3YeGZ925w_iY/edit?usp=sharing)
