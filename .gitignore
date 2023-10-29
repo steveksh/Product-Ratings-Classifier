@@ -1,3 +1,6 @@
 */__pycache__
 __pycache__
 raw_data/*
+components/*
+dev.ipynb
+baseline_code/model_baseline.ipynb
