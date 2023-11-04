@@ -22,6 +22,7 @@ def metadata_loader(path):
     # 创建空列表以存储提取的属性
     asin_list = []
     description_list = []
+    title = []
     price_list = []
     imUrl_list = []
     also_bought_list = []
@@ -37,6 +38,7 @@ def metadata_loader(path):
 
             # 提取属性并添加到对应的列表
             asin_list.append(data.get("asin", None))
+            title.append(data.get("title", None))
             description_list.append(data.get("description", None))
             price_list.append(data.get("price", None))
             imUrl_list.append(data.get("imUrl", None))
@@ -58,6 +60,7 @@ def metadata_loader(path):
     # 创建包含属性的字典，可以使用字典创建 Pandas 数据帧
     data_dict = {
         "asin": asin_list,
+        'title': title,
         "description": description_list,
         "price": price_list,
         "imUrl": imUrl_list,
